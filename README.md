@@ -1,6 +1,6 @@
 # 🏬 SUPERSTORE SALES ANALYSIS DASHBOARD
 
-![](https://github.com/BERLINSAMUELRAJ/DATASPARK_PROJECT/blob/main/resource-cs-dataspark_dwmbhq.webp)
+![](https://github.com/BERLINSAMUELRAJ/SUPERSTORE/blob/main/supermarket-background-lxaorv2a688qywx7.jpg)
 
 ## 🚀 Project Overview  
 This project is based on the **Global Superstore dataset**, designed to analyze **sales and profit performance** across different **geographies, categories, sub-categories, and shipping modes**.  
@@ -35,7 +35,7 @@ Using **Excel (flat file source)** and **Power BI**, we built an interactive das
 
 ## 📊 Dashboard
 
-![](https://github.com/BERLINSAMUELRAJ/DATASPARK_PROJECT/blob/main/resource-cs-dataspark_dwmbhq.webp)
+![](https://github.com/BERLINSAMUELRAJ/SUPERSTORE/blob/main/DASHBOARD.jpg)
 
 ### 🔹 **Superstore Dashboard Overview**  
 **KPIs:**  
